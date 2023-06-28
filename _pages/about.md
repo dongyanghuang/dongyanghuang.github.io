@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in Materials Science and Engineering. 
+
 I'm advised by Prof. Jinbo Wu and Prof. Qiang Sun.
+
 My research interests are smart materials database and materials data driven research.
 
 
