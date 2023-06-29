@@ -19,7 +19,7 @@ My research interests are electrorheological elastomer, electrorheological fluid
 
 Education
 ------
-2019- &ensp; &ensp; &ensp; &ensp;**Ph.D. candidate** in Materials Science and Engineering, [**Shanghai University**](https://www.shu.edu.cn), Shanghai, China.
+2019- &ensp; &ensp; **Ph.D. candidate** in Materials Science and Engineering, [**Shanghai University**](https://www.shu.edu.cn), Shanghai, China.
 
 2013-2017 &ensp; **B.Eng.** in Mechanical and Electronic Engineering, [**Northwest A&F University**](https://www.nwafu.edu.cn), Xi'an, China.
 
@@ -27,9 +27,9 @@ Education
 
 Publications
 ------
-1 Xuefeng Zhou#, Lijuan Wang#, **<u>Dongyang Huang#</u>**, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang, Huayan Pu, Weijia Wen, Jinbo Wu. **Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training**. *Advanced Materials Technologies* (JCR Q1). 6, 2100535 (2021). (Front Cover Picture). DOI: [10.1002/admt.202100535](https://doi.org/10.1002/admt.202100535).
+1 &ensp;Xuefeng Zhou#, Lijuan Wang#, **<u>Dongyang Huang#</u>**, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang, Huayan Pu, Weijia Wen, Jinbo Wu. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training. *Advanced Materials Technologies* (JCR Q1). 6, 2100535 (2021). (Front Cover Picture). DOI: [10.1002/admt.202100535](https://doi.org/10.1002/admt.202100535).
 
-2 Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang, Jinbo Wu, Weijia Wen. **Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications**. *Engineering* (JCR Q1). (2022). DOI: [10.1016/j.eng.2022.01.014](https://doi.org/10.1016/j.eng.2022.01.014).
+2 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang, Jinbo Wu, Weijia Wen. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications. *Engineering* (JCR Q1). (2022). DOI: [10.1016/j.eng.2022.01.014](https://doi.org/10.1016/j.eng.2022.01.014).
 
 Awards and Honors
 ------
