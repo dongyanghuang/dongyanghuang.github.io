@@ -1,9 +1,9 @@
 ---
 title: "Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Styles and Unconventional Technique Training"
 collection: publications
-permalink: /publication/2021-08-paper-title-number-1
+permalink: /publication/2021-08-04-paper-title-number-1
 excerpt: 'anisotropic structure, electrorheological elastomers, table tennis racket, tunable stiffness'
-date: 2021-08
+date: 2021-08-04
 venue: 'Advanced Materials Technologies'
 paperurl: 'https://www.researchgate.net/publication/353695592_Smart_Table_Tennis_Racket_with_Tunable_Stiffness_for_Diverse_Play_Styles_and_Unconventional_Technique_Training'
 citation: 'Xuefeng Zhou, Lijuan Wang, Dongyang Huang, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang, Huayan Pu, Weijia Wen, Jinbo Wu. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training. *Advanced Materials Technologies*. 6, 2100535 (2021). DOI: 10.1002/admt.202100535.'
