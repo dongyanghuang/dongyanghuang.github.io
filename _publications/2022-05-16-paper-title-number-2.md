@@ -1,9 +1,9 @@
 ---
 title: "Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: from Mechanisms to Applications"
 collection: publications
-permalink: /publication/2022-05-paper-title-number-2
+permalink: /publication/2022-05-16-paper-title-number-2
 excerpt: 'Electrorheological technology, electrorheological fluid, electrorheological elastomer'
-date: 2022-05
+date: 2022-05-16
 venue: 'Engineering'
 paperurl: 'https://www.researchgate.net/publication/360637239_Efficient_Electrorheological_Technology_for_Materials_Energy_and_Mechanical_Engineering_From_Mechanisms_to_Applications'
 citation: 'Yudai Liang, Dongyang Huang, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang, Jinbo Wu, Weijia Wen. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications. *Engineering*. (2022). DOI: 10.1016/j.eng.2022.01.014.'
