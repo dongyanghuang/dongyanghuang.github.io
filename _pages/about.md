@@ -23,7 +23,7 @@ Education
 
 *From 2013 to 2017* &ensp; **B.Eng.** in Mechanical and Electronic Engineering, [*Northwest A&F University*](https://www.nwafu.edu.cn), Xi'an, China.
 
-*From 2010 to 2013* &ensp; Henan Huangchuan Senior Middle School, Xinyang, China.
+*From 2010 to 2013* &ensp; *Henan Huangchuan Senior Middle School*, Xinyang, China.
 
 Publications
 ------
