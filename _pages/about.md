@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in Materials Science and Engineering. 
+I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in ***Materials Science and Engineering***. I graduated from <u>*Northwest A&F University (985)*</u> with a B.Eng. degree in 2017 and enrolled in <u>*Shanghai University (211)*</u> to study for a doctoral degree in 2019.
 
 My supervisors are Prof. Jinbo Wu and Prof. Qiang Sun.
 
@@ -27,7 +27,7 @@ Education
 
 Publications
 ------
-1 &ensp;Xuefeng Zhou#, Lijuan Wang#, **<u>Dongyang Huang#</u>**, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang, Huayan Pu, Weijia Wen, Jinbo Wu. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training. ***Advanced Materials Technologies*** (JCR Q1, IF = 6.8). 6, 2100535 (2021). (*<u>Front Cover Picture</u>*). DOI: [10.1002/admt.202100535](https://doi.org/10.1002/admt.202100535).
+1 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang<sup>#</sup></u>**, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang, Huayan Pu, Weijia Wen, Jinbo Wu. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training. ***Advanced Materials Technologies*** (JCR Q1, IF = 6.8). 6, 2100535 (2021). (*<u>Front Cover Picture</u>*). DOI: [10.1002/admt.202100535](https://doi.org/10.1002/admt.202100535).
 
 2 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang, Jinbo Wu, Weijia Wen. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications. ***Engineering*** (JCR Q1, IF = 12.8). (2022). DOI: [10.1016/j.eng.2022.01.014](https://doi.org/10.1016/j.eng.2022.01.014).
 
@@ -39,19 +39,21 @@ Awards and Honors
 
 *2021* &ensp; First class scholarship of Shanghai University.
 
-*2016* &ensp; Outstanding Student of summer camps of [Wuhan University](https://www.whu.edu.cn/).
+*2016* &ensp; "Outstanding Student" of summer camps of [Wuhan University](https://www.whu.edu.cn/).
 
-*2016* &ensp; Outstanding Student of summer camps of [University of Science and Technology Beijing](https://www.ustb.edu.cn/). 
+*2016* &ensp; "Outstanding Student" of summer camps of [University of Science and Technology Beijing](https://www.ustb.edu.cn/). 
 
 *2015* &ensp; First place in the 3rd Environmental Protection Science and Technology Innovation Competition of Northwest A&F University. 
 
-*2015* &ensp; [Top Ten Readers](https://oldlib.nwsuaf.edu.cn/dzpx/283009.htm) of the library of Northwest A&F University. 
+*2015* &ensp; "[Top Ten Readers](https://oldlib.nwsuaf.edu.cn/dzpx/283009.htm)" of the library of Northwest A&F University. 
 
-*2013* &ensp; [Best Debater](https://news.nwafu.edu.cn/xstdx/fc748ac3f10b4a0fbd48e1ac2b249b7a.htm) of the 1st Hanzhang Cup Debate Competition. 
+*2015* &ensp; "Best Debater" of the 16th Talents Cup Debate Competition. 
+
+*2013* &ensp; "[Best Debater of the Year](https://news.nwafu.edu.cn/xstdx/fc748ac3f10b4a0fbd48e1ac2b249b7a.htm)" of the 1st Hanzhang Cup Debate Competition (the only awardee). 
 
 Academic Conferences
 ------
-*Jun 2023*&ensp; [the 18th International Conference on Electrorheological Fluids and Magnetorheological Suspensions](https://ermr2023.aconf.org/),  Chongqing, China. 
+*Jun 2023*&ensp; [The 18th International Conference on Electrorheological Fluids and Magnetorheological Suspensions](https://ermr2023.aconf.org/),  Chongqing, China. 
 
 *May 2023*&ensp; [Electrorheological and Magnetorheological Academic Forum Dalian](https://cstam.org.cn/article/16778185154490368.html), Dalian, China.
 
