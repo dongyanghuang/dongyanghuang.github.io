@@ -1,5 +1,5 @@
 ---
-title: "Smart table tennis racket"
+title: "Smart Table Tennis Racket"
 excerpt: "Poster<br/><img src='/images/tabletennisracket.png'>"
 collection: portfolio
 ---
