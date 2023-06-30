@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in ***Materials Science and Engineering***. I graduated from <u>*Northwest A&F University (985)*</u> with a B.Eng. degree in 2017 and enrolled in <u>*Shanghai University (211)*</u> to study for a doctoral degree in 2019.
+I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in ***Materials Science and Engineering***. I graduated from <span>Northwest A&F University (985)</span> with a B.Eng. degree in 2017 and enrolled in <span>Shanghai University (211)</span> to study for a doctoral degree in 2019.
 
 My supervisors are Prof. Jinbo Wu and Prof. Qiang Sun.
 
