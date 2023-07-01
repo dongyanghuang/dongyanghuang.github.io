@@ -14,7 +14,7 @@ I graduated from *Northwest A&F University (985)* with a B.Eng. degree in 2017 a
 
 My supervisors are Prof. Jinbo Wu and Prof. Qiang Sun.
 
-My research interests are electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data driven research.
+My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
 
 
 
