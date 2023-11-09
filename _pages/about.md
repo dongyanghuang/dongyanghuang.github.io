@@ -41,7 +41,7 @@ Granted Patents
 
 Awards and Honors
 ------
-<font size=1>2023</font> &ensp; "Third Class Honor" for the Best Posters in the Electrorheological and Magnetorheological Academic Forum Dalian.
+<font size=3>2023</font> &ensp; "Third Class Honor" for the Best Posters in the Electrorheological and Magnetorheological Academic Forum Dalian.
 
 *2021* &ensp; Cover Picture of [Advanced Materials Technologies](https://onlinelibrary.wiley.com/toc/2365709x/2021/6/10), Volume 6, Issue 10. 
 
