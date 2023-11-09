@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in ***Materials Science and Engineering***.
+I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in **Materials Science and Engineering**.
 
 I graduated from *Northwest A&F University* (985) with a B.Eng. degree in 2017 and enrolled in *Shanghai University* (211) to study for a doctoral degree in 2019.
 
@@ -41,7 +41,7 @@ Granted Patents
 
 Awards and Honors
 ------
-<2023> &ensp; "Third Class Honor" for the Best Posters in the Electrorheological and Magnetorheological Academic Forum Dalian.
+<font size=1>2023</font> &ensp; "Third Class Honor" for the Best Posters in the Electrorheological and Magnetorheological Academic Forum Dalian.
 
 *2021* &ensp; Cover Picture of [Advanced Materials Technologies](https://onlinelibrary.wiley.com/toc/2365709x/2021/6/10), Volume 6, Issue 10. 
 
