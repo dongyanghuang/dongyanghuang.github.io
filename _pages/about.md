@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in ***Materials Science and Engineering***.
 
-I graduated from *Northwest A&F University (985)* with a B.Eng. degree in 2017 and enrolled in *Shanghai University (211)* to study for a doctoral degree in 2019.
+I graduated from *Northwest A&F University* (985) with a B.Eng. degree in 2017 and enrolled in *Shanghai University* (211) to study for a doctoral degree in 2019.
 
 My supervisors are Prof. Jinbo Wu and Prof. Qiang Sun.
 
@@ -29,13 +29,19 @@ Education
 
 Publications
 ------
-1 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang<sup>#</sup></u>**, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training. ***Advanced Materials Technologies*** (JCR Q1, IF = 6.8). 6, 2100535 (2021). (*<u>Front Cover Picture</u>*). DOI: [10.1002/admt.202100535](https://doi.org/10.1002/admt.202100535).
+1 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang<sup>#</sup></u>**, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training. ***Advanced Materials Technologies*** (JCR Q1, IF = 6.8). 6, 2100535 (2021). (<u>Front Cover Picture</u>). DOI: [10.1002/admt.202100535](https://doi.org/10.1002/admt.202100535).
 
 2 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang\*, Jinbo Wu\*, Weijia Wen\*. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications. ***Engineering*** (JCR Q1, IF = 12.8). (2022). DOI: [10.1016/j.eng.2022.01.014](https://doi.org/10.1016/j.eng.2022.01.014).
 
+Granted Patents
+------
+3 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
+
+4 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film. China. CN116535709A.
+
 Awards and Honors
 ------
-*2023* &ensp; "Third Class Honor" for the Best Posters in the Electrorheological and Magnetorheological Academic Forum Dalian.
+<2023> &ensp; "Third Class Honor" for the Best Posters in the Electrorheological and Magnetorheological Academic Forum Dalian.
 
 *2021* &ensp; Cover Picture of [Advanced Materials Technologies](https://onlinelibrary.wiley.com/toc/2365709x/2021/6/10), Volume 6, Issue 10. 
 
@@ -55,7 +61,9 @@ Awards and Honors
 
 Academic Conferences
 ------
-*Jun 2023*&ensp; [The 18th International Conference on Electrorheological Fluids and Magnetorheological Suspensions](https://ermr2023.aconf.org/),  Chongqing, China. 
+*Oct 2023*&ensp; [International Conference on Frontier Materials 2023 (ICFM 2023)](http://icfm2023.org.cn/index.html), Qingdao, China. 
+
+*Jun 2023*&ensp; [The 18th International Conference on Electrorheological Fluids and Magnetorheological Suspensions (ERMR 2023)](https://ermr2023.aconf.org/),  Chongqing, China. 
 
 *May 2023*&ensp; [Electrorheological and Magnetorheological Academic Forum Dalian](https://cstam.org.cn/article/16778185154490368.html), Dalian, China.
 
