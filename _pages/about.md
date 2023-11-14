@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student @ [Materials Genome Institute (MGI)](https://mgi.shu.edu.cn/), [Shanghai University (SHU)](https://www.shu.edu.cn/), majoring in **Materials Science and Engineering**.
+I'm a PhD student @ [Materials Genome Institute](https://mgi.shu.edu.cn/) [MGI], [Shanghai University](https://www.shu.edu.cn/) [SHU], majoring in **Materials Science and Engineering**.
 
 I graduated from **Northwest A&F University** (985) with a B.Eng. degree in 2017 and enrolled in **Shanghai University** (211) to study for a doctoral degree in 2019.
 
