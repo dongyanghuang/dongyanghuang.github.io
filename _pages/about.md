@@ -29,15 +29,17 @@ Education
 
 Publications
 ------
-1 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang</u>**<sup>#</sup>, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training. ***Advanced Materials Technologies*** (JCR Q1, IF = 6.8). 2021, 6: 2100535. (<u>Front Cover Picture</u>). DOI: [10.1002/admt.202100535](https://doi.org/10.1002/admt.202100535).
+1 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang</u>**<sup>#</sup>, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. [Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training](https://doi.org/10.1002/admt.202100535). ***Advanced Materials Technologies*** (JCR Q1, IF = 6.8). 2021, 6: 2100535. (**<u>Front Cover Picture</u>**).
 
-2 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang\*, Jinbo Wu\*, Weijia Wen\*. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications. ***Engineering*** (JCR Q1, IF = 12.8). 2023, 24: 151-171. DOI: [10.1016/j.eng.2022.01.014](https://doi.org/10.1016/j.eng.2022.01.014).
+2 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang\*, Jinbo Wu\*, Weijia Wen\*. [Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications](https://doi.org/10.1016/j.eng.2022.01.014). ***Engineering*** (JCR Q1, IF = 12.8). 2023, 24: 151-171.
 
 Granted Patents
 ------
-3 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
+3 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film. China. 202311711736.5.
 
-4 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film. China. CN116535709A.
+4 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
+
+5 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film. China. CN116535709A.
 
 Awards and Honors
 ------
