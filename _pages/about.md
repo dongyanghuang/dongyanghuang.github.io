@@ -35,11 +35,11 @@ Publications
 
 Granted Patents
 ------
-3 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film. China. 202311711736.5.
+1 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film. China. 202311711736.5.
 
-4 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
+2 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
 
-5 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film. China. CN116535709A.
+3 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film. China. CN116535709A.
 
 Awards and Honors
 ------
