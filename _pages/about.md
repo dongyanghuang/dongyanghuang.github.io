@@ -33,13 +33,15 @@ Publications
 
 2 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang\*, Jinbo Wu\*, Weijia Wen\*. [Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications](https://doi.org/10.1016/j.eng.2022.01.014). ***Engineering*** (JCR Q1, IF = 12.8). 2023, 24: 151-171.
 
-Granted Patents
+Patents and Software
 ------
 1 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film. China. 202311711736.5.
 
-2 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
+2 &ensp;**<u>Dongyang Huang</u>**, Jinbo Wu, Chang Xue. Artificial Muscle Materials Database [AMDB] V1.0. 2023R11S2349851.
 
-3 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film. China. CN116535709A.
+3 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
+
+4 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film. China. CN116535709A.
 
 Awards and Honors
 ------
