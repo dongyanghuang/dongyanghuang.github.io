@@ -1,3 +1,4 @@
+excerpt: "<img src='/images/certificates1.png'>"
 ---
 title: "Smart Table Tennis Racket"
 excerpt: "Poster<br/><img src='/images/tabletennisracket.png'>"
