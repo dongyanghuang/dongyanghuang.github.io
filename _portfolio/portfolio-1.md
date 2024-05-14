@@ -1,7 +1,6 @@
-excerpt: "<img src='/images/certificates1.png'>"
 ---
-title: "Smart Table Tennis Racket"
-excerpt: "Poster<br/><img src='/images/tabletennisracket.png'>"
+title: "Picture Wall"
+excerpt: "<img src='/images/certificates1.png'><br/>Poster<br/><img src='/images/tabletennisracket.png'>"
 collection: portfolio
 ---
 
