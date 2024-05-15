@@ -1,6 +1,6 @@
 ---
 title: "Picture Wall"
-excerpt: "<img src='/images/certificates1.png'><br/><br/><img src='/images/certificates2.png'><br/><br/>Poster<br/><img src='/images/tabletennisracket.png'>"
+excerpt: "<img src='/images/certificates1.png'><br/><br/><img src='/images/certificates2.png'><br/><br/><img src='/images/certificates3.png'><br/><br/>Poster<br/><img src='/images/tabletennisracket.png'>"
 collection: portfolio
 ---
 
