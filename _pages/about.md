@@ -16,7 +16,7 @@ My supervisor is Prof. Jinbo Wu.
 
 My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
 
-**Citations** = [35](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
+**Citations** = [36](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
 
 
 Education
