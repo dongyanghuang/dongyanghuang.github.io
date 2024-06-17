@@ -37,7 +37,7 @@ Patents and Software
 ------
 1 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film. China. 202311711736.5.
 
-2 &ensp;**<u>Dongyang Huang</u>**, Jinbo Wu, Chang Xue. Artificial Muscle Materials Database [AMDB] V1.0. China. 2023R11S2349851.
+2 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Artificial Muscle Materials Database [AMDB] V1.0. China. 2024SR0126822.
 
 3 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator. China. CN116496526A.
 
