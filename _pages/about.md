@@ -41,6 +41,8 @@ Publications
 
 6 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine. (Under Review).
 
+7 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University (Natural Science Edition)***. 2016, 30 (01): 26-29.
+
 Patents and Software
 ------
 1 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film. China. CN117798970A.
