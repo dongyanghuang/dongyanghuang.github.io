@@ -16,7 +16,7 @@ My supervisor is Prof. Jinbo Wu.
 
 My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
 
-**Citations** = [47](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
+**Citations** = [48](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
 
 
 Education
@@ -41,7 +41,7 @@ Publications
 
 6 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine. (Under Review).
 
-7 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University (Natural Science Edition)***. 2016, 30 (01): 26-29.
+7 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
 Patents and Software
 ------
