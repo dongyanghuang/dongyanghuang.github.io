@@ -39,7 +39,7 @@ Publications
 
 5 &ensp;Xinying Zhang, Xiaoqian Zhou, **<u>Dongyang Huang</u>**, Yingying Chen, Qiang Zhang, Zhenzhen Li, Lingyan Feng\*. Nucleoside Hydrogel-modified Cell Subtype Biosensor with Antifouling and Electroconductive Properties. (Under Review).
 
-6 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine. ***Metrology and Measurement Systems***. 2024. (Accepted for Publication).
+6 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://metrology.wat.edu.pl/earlyaccess/32/1/MMS-01654-2024-02-Early-Access.pdf)). ***Metrology and Measurement Systems***. 2025, 32 (No. 1).
 
 7 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
