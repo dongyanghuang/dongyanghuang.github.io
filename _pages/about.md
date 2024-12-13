@@ -37,7 +37,7 @@ Publications
 
 4 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang\*, Jinbo Wu\*, Weijia Wen\*. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications ([Link](https://doi.org/10.1016/j.eng.2022.01.014)). ***Engineering*** (JCR Q1, IF = 12.8). 2023, 24 (5): 151-171.
 
-5 &ensp;Xinying Zhang, Xiaoqian Zhou, **<u>Dongyang Huang</u>**, Yingying Chen, Qiang Zhang, Zhenzhen Li, Lingyan Feng\*. Nucleoside Hydrogel-modified Cell Subtype Biosensor with Antifouling and Electroconductive Properties. ***Talanta***. 2025.
+5 &ensp;Xinying Zhang, Xiaoqian Zhou, **<u>Dongyang Huang</u>**, Yingying Chen, Qiang Zhang, Zhenzhen Li, Lingyan Feng\*. Nucleoside Hydrogel-modified Cell Subtype Biosensor with Antifouling and Electroconductive Properties ([Link](https://www.sciencedirect.com/science/article/pii/S003991402401765X)). ***Talanta***. 2025.
 
 6 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://metrology.wat.edu.pl/earlyaccess/32/1/MMS-01654-2024-02-Early-Access.pdf)). ***Metrology and Measurement Systems***. 2025, 32 (1).
 
