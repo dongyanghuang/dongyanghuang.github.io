@@ -75,9 +75,9 @@ First class scholarship of Shanghai University.
 
 Academic Conferences
 ------
-<font size=3>Jul 2024</font> [The 2nd World Materials Conference (WMC 2024)](https://cmc2024.scimeeting.cn/en/web/index/20751), Canton, China. 
+<font size=3>Jul 2024</font> [The 2nd World Materials Conference (WMC 2024)](https://cmc2024.scimeeting.cn/en/web/index/20751), Guangzhou, China. 
 
-[Chinese Materials Conference 2024 (CMC 2024)](https://cmc2024.scimeeting.cn/cn/web/index/), Canton, China. 
+[Chinese Materials Conference 2024 (CMC 2024)](https://cmc2024.scimeeting.cn/cn/web/index/), Guangzhou, China. 
 
 <font size=3>Oct 2023</font> [International Conference on Frontier Materials 2023 (ICFM 2023)](http://icfm2023.org.cn/index.html), Qingdao, China. 
 
