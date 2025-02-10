@@ -29,9 +29,9 @@ Education
 
 Publications
 ------
-1 &ensp;**<u>Dongyang Huang</u>**, Jiaxuan Ma, Yubing Han, Chang Xue, Mengying Zhang\*, Weijia Wen, Sheng Sun, Jinbo Wu\*, Xingcai Zhang\*. Artificial Intelligence Artificial Muscle. (Under Review).
+1 &ensp;**<u>Dongyang Huang</u>**, Jiaxuan Ma, Yubing Han, Chang Xue, Mengying Zhang\*, Weijia Wen, Sheng Sun, Jinbo Wu\*. Artificial Intelligence Artificial Muscle of Dielectric Elastomers ([Link](https://doi.org/10.1016/j.matdes.2025.113691)). ***Materials & Design*** (JCR Q1, IF = 7.6). 2025: 113691.
 
-2 &ensp;**<u>Dongyang Huang</u>**, Peng Huang, Mengying Zhang\*, Weijia Wen, Jinbo Wu\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
+2 &ensp;**<u>Dongyang Huang</u>**, Peng Huang, Peirong Liu, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
 
 3 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang</u>**<sup>#</sup>, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training ([Link](https://doi.org/10.1002/admt.202100535)). ***Advanced Materials Technologies*** (JCR Q1, IF = 8.856). 2021, 6: 2100535. (**<u>Front Cover Picture</u>**).
 
