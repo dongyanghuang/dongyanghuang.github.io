@@ -55,6 +55,8 @@ Patents and Software
 
 Awards and Honors
 ------
+<font size=3>2025</font> Cover Image of [Materials & Design](https://www.sciencedirect.com/science/article/pii/S0264127525001741), Volume 251. 
+
 <font size=3>2023</font> "Third Class Honor" for the Best Posters in the Electrorheological and Magnetorheological Academic Forum Dalian.
 
 <font size=3>2021</font> Cover Picture of [Advanced Materials Technologies](https://onlinelibrary.wiley.com/toc/2365709x/2021/6/10), Volume 6, Issue 10. 
