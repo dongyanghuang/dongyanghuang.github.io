@@ -29,7 +29,7 @@ Education
 
 Publications
 ------
-1 &ensp;**<u>Dongyang Huang</u>**, Jiaxuan Ma, Yubing Han, Chang Xue, Mengying Zhang\*, Weijia Wen, Sheng Sun, Jinbo Wu\*. Artificial Intelligence Artificial Muscle of Dielectric Elastomers ([Link](https://doi.org/10.1016/j.matdes.2025.113691)). ***Materials & Design*** (JCR Q1, IF = 7.6). 2025: 113691.
+1 &ensp;**<u>Dongyang Huang</u>**, Jiaxuan Ma, Yubing Han, Chang Xue, Mengying Zhang\*, Weijia Wen, Sheng Sun, Jinbo Wu\*. Artificial Intelligence Artificial Muscle of Dielectric Elastomers ([Link](https://doi.org/10.1016/j.matdes.2025.113691)). ***Materials & Design*** (JCR Q1, IF = 7.6). 2025, 251: 113691. (**<u>Cover Image</u>**)
 
 2 &ensp;**<u>Dongyang Huang</u>**, Peng Huang, Peirong Liu, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
 
