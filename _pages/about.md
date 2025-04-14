@@ -16,7 +16,7 @@ My supervisor is Prof. Jinbo Wu.
 
 My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
 
-**Citations** = [70](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
+**Citations** = [71](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
 
 
 Education
@@ -39,7 +39,7 @@ Publications
 
 5 &ensp;Xinying Zhang, Xiaoqian Zhou, **<u>Dongyang Huang</u>**, Yingying Chen, Qiang Zhang, Zhenzhen Li, Lingyan Feng\*. Nucleoside Hydrogel-modified Cell Subtype Biosensor with Antifouling and Electroconductive Properties ([Link](https://www.sciencedirect.com/science/article/pii/S003991402401765X)). ***Talanta*** (JCR Q1, IF = 5.6). 2025, 285: 127383.
 
-6 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://metrology.wat.edu.pl/earlyaccess/32/1/MMS-01654-2024-02-Early-Access.pdf)). ***Metrology and Measurement Systems***. 2025, 32 (1).
+6 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://www.czasopisma.pan.pl/dlibra/publication/152776/edition/134759/content)). ***Metrology and Measurement Systems***. 2025, 32 (1).
 
 7 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
