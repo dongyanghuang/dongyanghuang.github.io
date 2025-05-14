@@ -24,15 +24,15 @@ Education
 <font size=3>From 2019</font><img src='/images/SHU LOGO2.png' align="right">
 **Ph.D. candidate** in Materials Science and Engineering, [Shanghai University](https://www.shu.edu.cn)
 <font size=3>Shanghai, China</font>
-&nbsp;
+
+
 <font size=3>From 2013 to 2017</font><img src='/images/NWAFU LOGO.png' align="right">
 **B.Eng.** in Mechanical and Electronic Engineering, [Northwest A&F University](https://www.nwafu.edu.cn)
 <font size=3>Xi'an, China</font>
-&nbsp;
+
+
 <font size=3>From 2010 to 2013</font>
-Henan Huangchuan Senior Middle School
-&nbsp;
-Xinyang, China
+Henan Huangchuan Senior Middle School. Xinyang, China
 
 Publications
 ------
