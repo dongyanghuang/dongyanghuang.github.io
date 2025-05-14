@@ -33,7 +33,7 @@ Publications
 
 2 &ensp;**<u>Dongyang Huang*</u>**, Chenghao Yu. Phononic Crystals with Continuously Tunable Bandgap Based on Giant Electrorheological Elastomers. ***AIP Advances***. 2025, 15 (6).
 
-3 &ensp;**<u>Dongyang Huang</u>**, Peng Huang, Peirong Liu, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
+3 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Peng Huang, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
 
 4 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang</u>**<sup>#</sup>, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training ([Link](https://doi.org/10.1002/admt.202100535)). ***Advanced Materials Technologies*** (JCR Q1, IF = 8.856). 2021, 6: 2100535. (**<u>Front Cover Picture</u>**).
 
