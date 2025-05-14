@@ -99,4 +99,4 @@ Academic Conferences
 
 Collaborators
 ------
-<img src='/images/ABOUTLOGOS2.png'>
+<img src='/images/ABOUTLOGOS3.png'>
