@@ -21,7 +21,7 @@ My research interest is smart materials data-driven research, including electror
 
 Education
 ------
-<font size=3>From 2019</font><img src='/images/ULOGOS.png' align="right">**Ph.D. candidate** in Materials Science and Engineering, [Shanghai University](https://www.shu.edu.cn), Shanghai, China.
+<font size=3>From 2019 to 2025</font>**Ph.D. candidate** in Materials Science and Engineering, [Shanghai University](https://www.shu.edu.cn), Shanghai, China.
 
 <font size=3>From 2013 to 2017</font>**B.Eng.** in Mechanical and Electronic Engineering, [Northwest A&F University](https://www.nwafu.edu.cn), Xi'an, China.
 
@@ -97,3 +97,6 @@ Academic Conferences
 
 <font size=3>Oct 2019</font> [International Workshop on Materials Genomics (IWMG 2019)](https://mgi.shu.edu.cn/info/1063/1766.htm), Shanghai, China. 
 
+Collaborators
+------
+123
