@@ -31,7 +31,7 @@ Publications
 ------
 1 &ensp;**<u>Dongyang Huang</u>**, Jiaxuan Ma, Yubing Han, Chang Xue, Mengying Zhang\*, Weijia Wen, Sheng Sun, Jinbo Wu\*. Artificial Intelligence Artificial Muscle of Dielectric Elastomers ([Link](https://doi.org/10.1016/j.matdes.2025.113691)). ***Materials & Design*** (JCR Q1, IF = 7.6). 2025, 251: 113691. (**<u>Cover Image</u>**).
 
-2 &ensp;**<u>Dongyang Huang*</u>**, Chenghao Yu. Phononic Crystals with Continuously Tunable Bandgap Based on Giant Electrorheological Elastomers ([Link](https://doi.org/10.1063/5.0261266)). ***AIP Advances***. 2025, 15 (6): 065004.
+2 &ensp;**<u>Dongyang Huang</u>**\*, Chenghao Yu. Phononic Crystals with Continuously Tunable Bandgap Based on Giant Electrorheological Elastomers ([Link](https://doi.org/10.1063/5.0261266)). ***AIP Advances***. 2025, 15 (6): 065004.
 
 3 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Peng Huang, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
 
