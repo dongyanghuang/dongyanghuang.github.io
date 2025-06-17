@@ -33,17 +33,19 @@ Publications
 
 2 &ensp;**<u>Dongyang Huang</u>**\*, Chenghao Yu. Phononic Crystals with Continuously Tunable Bandgap Based on Giant Electrorheological Elastomers ([Link](https://doi.org/10.1063/5.0261266)). ***AIP Advances***. 2025, 15 (6): 065004.
 
-3 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Peng Huang, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
+3 &ensp;**<u>Dongyang Huang</u>**\*, Jiaxing Fu, Chenghao Yu. Machine Learning Discovery of the Dielectric Properties of Strontium-Containing Condensed Matter ([Link](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599182/abstract)). ***Frontiers in Physics***. 2025, 13.
 
-4 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang</u>**<sup>#</sup>, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training ([Link](https://doi.org/10.1002/admt.202100535)). ***Advanced Materials Technologies*** (JCR Q1, IF = 8.856). 2021, 6: 2100535. (**<u>Front Cover Picture</u>**).
+4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Peng Huang, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
 
-5 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang\*, Jinbo Wu\*, Weijia Wen\*. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications ([Link](https://doi.org/10.1016/j.eng.2022.01.014)). ***Engineering*** (JCR Q1, IF = 12.8). 2023, 24 (5): 151-171.
+5 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang</u>**<sup>#</sup>, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training ([Link](https://doi.org/10.1002/admt.202100535)). ***Advanced Materials Technologies*** (JCR Q1, IF = 8.856). 2021, 6: 2100535. (**<u>Front Cover Picture</u>**).
 
-6 &ensp;Xinying Zhang, Xiaoqian Zhou, **<u>Dongyang Huang</u>**, Yingying Chen, Qiang Zhang, Zhenzhen Li, Lingyan Feng\*. Nucleoside Hydrogel-modified Cell Subtype Biosensor with Antifouling and Electroconductive Properties ([Link](https://www.sciencedirect.com/science/article/pii/S003991402401765X)). ***Talanta*** (JCR Q1, IF = 5.6). 2025, 285: 127383.
+6 &ensp;Yudai Liang, **<u>Dongyang Huang</u>**, Xuefeng Zhou, Ziqiu Wang, Quan Shi, Yaying Hong, Huayan Pu, Mengying Zhang\*, Jinbo Wu\*, Weijia Wen\*. Efficient Electrorheological Technology for Materials, Energy, and Mechanical Engineering: From Mechanisms to Applications ([Link](https://doi.org/10.1016/j.eng.2022.01.014)). ***Engineering*** (JCR Q1, IF = 12.8). 2023, 24 (5): 151-171.
 
-7 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://www.czasopisma.pan.pl/dlibra/publication/152776/edition/134759/content)). ***Metrology and Measurement Systems***. 2025, 32 (1).
+7 &ensp;Xinying Zhang, Xiaoqian Zhou, **<u>Dongyang Huang</u>**, Yingying Chen, Qiang Zhang, Zhenzhen Li, Lingyan Feng\*. Nucleoside Hydrogel-modified Cell Subtype Biosensor with Antifouling and Electroconductive Properties ([Link](https://www.sciencedirect.com/science/article/pii/S003991402401765X)). ***Talanta*** (JCR Q1, IF = 5.6). 2025, 285: 127383.
 
-8 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
+8 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://www.czasopisma.pan.pl/dlibra/publication/152776/edition/134759/content)). ***Metrology and Measurement Systems***. 2025, 32 (1).
+
+9 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
 Patents and Software
 ------
