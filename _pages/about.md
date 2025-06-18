@@ -53,7 +53,7 @@ Patents and Software
 
 2 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Artificial Muscle Materials Database [AMDB] V1.0 ([Link](https://dongyanghuang.github.io/images/software.png)). China. 2024SR0126822.
 
-3 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Chang Xue, Mengying Zhang, Weijia Wen. A preparation method and application of high performance electrorheological elastomer ([Link](https://dongyanghuang.github.io/images/ERE patent.jpg)). China. 202510708613.9.
+3 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Chang Xue, Mengying Zhang, Weijia Wen. A preparation method and application of high performance electrorheological elastomer ([Link](https://dongyanghuang.github.io/images/ERE-patent.jpg)). China. 202510708613.9.
 
 4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Hui Cao, Hanyu Xu, Chang Xue, Jinbo Wu. Graphene-like Dirac Cone Computing Platform [GLDC] V1.0.
 
