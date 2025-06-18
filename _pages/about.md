@@ -55,7 +55,7 @@ Patents and Software
 
 3 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Chang Xue, Mengying Zhang, Weijia Wen. A preparation method and application of high performance electrorheological elastomer ([Link](https://dongyanghuang.github.io/images/ERE-patent.jpg)). China. 202510708613.9.
 
-4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Hui Cao, Hanyu Xu, Chang Xue, Jinbo Wu. Graphene-like Dirac Cone Computing Platform [GLDC] V1.0.
+4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Hui Cao, Hanyu Xu, Chang Xue, Jinbo Wu. Graphene-like Dirac Cone Computing Platform [GLDC] V1.0 ([Link](https://dongyanghuang.github.io/images/GLDC.jpg)).
 
 5 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator ([Link](https://kns.cnki.net/kcms2/article/abstract?v=k15566fjT2mlaGofGAX3UNsbQm0ksiNZgvlz-6WAm-UvutqXcmta5suMpcL7_S7mm1iv85JOl6PnKp_pmxd2odm-5XM9XUuPTFy3IDO1MRZAEKh_7kfxCyKPjeqhYAQhHDE5ps4gFh0K_coyE9scRAn8Ohgf8QD1P1c1vDlheEPZklwwTtUp2lk3_wwFXHpwe3lB3a_fnDdis6fMGLsZk0UFjF9eUv1gxEp1cdXInSDxVTUEzDxkQvHq9Eh58wlarK0Ex7fW30PxgIaTAqUa1mFujFai-dZcb8ijnXRShVJNqz0AGbAcMxd3eMRZTVwrG0qrQDMr_oMXm3ojJttyetFCq5syxWq2ZcL-Jd6rRaTsbhOzS5iBuL52aepvviacSO9HENQzXnspAEzRTGVLyIg9dQpUSnjy&uniplatform=NZKPT)). China. CN116496526A.
 
