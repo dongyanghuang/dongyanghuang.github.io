@@ -33,7 +33,7 @@ Publications
 
 2 &ensp;**<u>Dongyang Huang</u>**\*, Chenghao Yu. Phononic Crystals with Continuously Tunable Bandgap Based on Giant Electrorheological Elastomers ([Link](https://doi.org/10.1063/5.0261266)). ***AIP Advances***. 2025, 15 (6): 065004.
 
-3 &ensp;**<u>Dongyang Huang</u>**\*, Jiaxing Fu, Chenghao Yu. Machine Learning Discovery of the Dielectric Properties of Strontium-Containing Condensed Matter ([Link](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599182/abstract)). ***Frontiers in Physics***. 2025, 13.
+3 &ensp;**<u>Dongyang Huang</u>**\*, Jiaxing Fu, Chenghao Yu. Machine Learning Discovery of the Dielectric Properties of Strontium-Containing Condensed Matter ([Link](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599182/abstract)). ***Frontiers in Physics***. 2025, 13: 1599182.
 
 4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Peng Huang, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
 
