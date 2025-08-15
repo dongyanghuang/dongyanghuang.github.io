@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student @ [Materials Genome Institute](https://mgi.shu.edu.cn/) (MGI), [Shanghai University](https://www.shu.edu.cn/) (SHU), majoring in **Materials Science and Engineering**.
+I'm an assistant professor @ [School of Electronic Information](https://www.lit.edu.cn/dxxy/), [Luoyang Institute of Science and Technology](https://www.lit.edu.cn/) (LIT).
 
-I graduated from **Northwest A&F University** (Project 985) with a B.Eng. degree in 2017 and enrolled in **Shanghai University** (Project 211) to study for a doctoral degree in 2019.
-
-My supervisor is Prof. Jinbo Wu.
+I graduated from **Northwest A&F University** (Project 985) with a B.Eng. degree in 2017 and **Shanghai University** (Project 211) with a Ph.D. degree in 2025.
 
 My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
 
@@ -21,7 +19,7 @@ My research interest is smart materials data-driven research, including electror
 
 Education
 ------
-<font size=3>From 2019 to 2025</font>**Ph.D. candidate** in Materials Science and Engineering, [Shanghai University](https://www.shu.edu.cn), Shanghai, China.
+<font size=3>From 2019 to 2025</font>**Ph.D.** in Materials Science and Engineering, [Shanghai University](https://www.shu.edu.cn), Shanghai, China.
 
 <font size=3>From 2013 to 2017</font>**B.Eng.** in Mechanical and Electronic Engineering, [Northwest A&F University](https://www.nwafu.edu.cn), Xi'an, China.
 
