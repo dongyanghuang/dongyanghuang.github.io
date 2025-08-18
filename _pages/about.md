@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor @ [School of Electronic Information](https://www.lit.edu.cn/dxxy/), [Luoyang Institute of Science and Technology](https://www.lit.edu.cn/) (LIT).
+I'm a lecturer @ [School of Electronic Information](https://www.lit.edu.cn/dxxy/), [Luoyang Institute of Science and Technology](https://www.lit.edu.cn/) (LIT).
 
 I graduated from **Northwest A&F University** (Project 985) with a B.Eng. degree in 2017 and **Shanghai University** (Project 211) with a Ph.D. degree in 2025.
 
