@@ -33,7 +33,7 @@ Publications
 
 3 &ensp;**<u>Dongyang Huang</u>**\*, Jiaxing Fu, Chenghao Yu. Machine Learning Discovery of the Dielectric Properties of Strontium-Containing Condensed Matter ([Link](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599182/abstract)). ***Frontiers in Physics***. 2025, 13: 1599182.
 
-4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Peng Huang, Mengying Zhang, Weijia Wen, Jinbo Wu\*, Xingcai Zhang\*. Deep Learning-assisted Development of Multifunctional Fluorescent Dielectric Elastomers Modified with Perovskite Quantum Dots. (Under Review).
+4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Peng Huang, Yubing Han, Chang Xue, Mengying Zhang, Weijia Wen, Tong-yi Zhang, Bingpu Zhou, Jinbo Wu\*. Deep Learning-assisted Efficient Design of Biomimetic Fluorescent Dielectric Elastomers. (Under Review).
 
 5 &ensp;Xuefeng Zhou<sup>#</sup>, Lijuan Wang<sup>#</sup>, **<u>Dongyang Huang</u>**<sup>#</sup>, Yudai Liang, Quan Shi, Hong Yaying, Mengying Zhang\*, Huayan Pu, Weijia Wen, Jinbo Wu\*. Smart Table Tennis Racket with Tunable Stiffness for Diverse Play Style and Unconventional Technique Training ([Link](https://doi.org/10.1002/admt.202100535)). ***Advanced Materials Technologies*** (JCR Q1, IF = 8.856). 2021, 6: 2100535. (**<u>Front Cover Picture</u>**).
 
