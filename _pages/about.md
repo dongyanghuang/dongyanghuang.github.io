@@ -14,7 +14,7 @@ I graduated from **Northwest A&F University** (Project 985) with a B.Eng. degree
 
 My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
 
-**Citations** = [88](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [4](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
+**Citations** = [89](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [4](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [2](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
 
 
 Education
