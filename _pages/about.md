@@ -85,6 +85,8 @@ First class scholarship of Shanghai University.
 
 Academic Conferences
 ------
+<font size=3>Nov 2025</font> [The 2nd Chinese Conference on Smart Materials and Structural Systems (SMSS 2025)](https://www.bagevent.com/event/SMS2025/), Guangzhou, China. 
+
 <font size=3>Jul 2024</font> [The 2nd World Materials Conference (WMC 2024)](https://cmc2024.scimeeting.cn/en/web/index/20751), Guangzhou, China. 
 
 [Chinese Materials Conference 2024 (CMC 2024)](https://cmc2024.scimeeting.cn/cn/web/index/), Guangzhou, China. 
