@@ -14,7 +14,7 @@ I graduated from **Northwest A&F University** (Project 985) with a B.Eng. degree
 
 My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
 
-**Citations** = [110](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [4](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
+**Citations** = [111](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [4](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
 
 
 Education
@@ -87,15 +87,15 @@ Academic Conferences
 ------
 <font size=3>Nov 2025</font> [The 2nd Chinese Conference on Smart Materials and Structural Systems (SMSS 2025)](https://www.bagevent.com/event/SMS2025/), Oral Presentation, Guangzhou, China. 
 
-<font size=3>Jul 2024</font> [The 2nd World Materials Conference (WMC 2024)](https://cmc2024.scimeeting.cn/en/web/index/20751), Guangzhou, China. 
+<font size=3>Jul 2024</font> [The 2nd World Materials Conference (WMC 2024)](https://cmc2024.scimeeting.cn/en/web/index/20751), Poster Presentation, Guangzhou, China. 
 
-[Chinese Materials Conference 2024 (CMC 2024)](https://cmc2024.scimeeting.cn/cn/web/index/), Guangzhou, China. 
+[Chinese Materials Conference 2024 (CMC 2024)](https://cmc2024.scimeeting.cn/cn/web/index/), Poster Presentation, Guangzhou, China. 
 
-<font size=3>Oct 2023</font> [International Conference on Frontier Materials 2023 (ICFM 2023)](http://icfm2023.org.cn/index.html), Qingdao, China. 
+<font size=3>Oct 2023</font> [International Conference on Frontier Materials 2023 (ICFM 2023)](http://icfm2023.org.cn/index.html), Poster Presentation, Qingdao, China. 
 
-<font size=3>Jun 2023</font> [The 18th International Conference on Electrorheological Fluids and Magnetorheological Suspensions (ERMR 2023)](https://ermr2023.aconf.org/),  Chongqing, China. 
+<font size=3>Jun 2023</font> [The 18th International Conference on Electrorheological Fluids and Magnetorheological Suspensions (ERMR 2023)](https://ermr2023.aconf.org/),  Poster Presentation, Chongqing, China. 
 
-<font size=3>May 2023</font> [Electrorheological and Magnetorheological Academic Forum Dalian](https://cstam.org.cn/article/16778185154490368.html), Dalian, China.
+<font size=3>May 2023</font> [Electrorheological and Magnetorheological Academic Forum Dalian](https://cstam.org.cn/article/16778185154490368.html), Poster Presentation, Dalian, China.
 
 <font size=3>Oct 2022</font> [Conference of Soft Matter Physics China](http://softmat2021.cpsjournals.cn/index.php?m=82), Wenzhou, China (online). 
 
