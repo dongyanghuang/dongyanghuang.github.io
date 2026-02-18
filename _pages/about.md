@@ -12,7 +12,7 @@ I'm a lecturer @ [School of Electronic Information](https://www.lit.edu.cn/dxxy/
 
 I graduated from **Northwest A&F University** (Project 985) with a B.Eng. degree in 2017, and from **Shanghai University** (Project 211) with a Ph.D. degree in 2025.
 
-My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, smart materials database and materials data mining.
+My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, piezoresistive materials, smart materials database and materials data mining.
 
 **Citations** = [112](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [4](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
 
