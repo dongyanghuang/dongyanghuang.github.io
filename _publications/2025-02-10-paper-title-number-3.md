@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Artificial Muscle of Dielectric Elastomers"
 collection: publications
 permalink: /publication/2025-02-10-paper-title-number-3
-excerpt: 'electrorheological technology, electrorheological fluid, electrorheological elastomer'
+excerpt: 'artificial muscle, artificial intelligence, dielectric elastomer, material database, data mining, natural language processing'
 date: 2025-02-10
 venue: 'Materials & Design'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S026412752500111X'
