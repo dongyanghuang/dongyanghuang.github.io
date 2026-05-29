@@ -47,7 +47,7 @@ Publications
 
 Patents and Software
 ------
-1 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film ([Link](https://kns.cnki.net/kcms2/article/abstract?v=k15566fjT2lvmwzpPqzYnxf15lX3SjtIjj1XsEqzMwuZ1TG5oVCt6xcyna2l7wQNdS1QJZ6whzEUyUi9f_L-M4pMhMBaNfCRSK6blNUZ5Ff0ecflNXvTDps0vDfIZXDBK55Lz1rkdYrMWhmhaXgf_eVFFGIJwmSFbBLyjjA8Sealg14C8OfvpwfvorlV0eY2rruT_i7yBdgJ-9snYRoL6Iwii88C3QBzF7E2FQ4Jx38=&uniplatform=NZKPT)). China. CN117798970A.
+1 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Yubing Han, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Variable stiffness flexible gripper and brush writing machine based on composite dielectric elastomer film ([Link](https://dongyanghuang.github.io/images/patent1.jpg)). China. ZL202311711736.5.
 
 2 &ensp;Jinbo Wu, **<u>Dongyang Huang</u>**, Jincang Zhang, Weijia Wen, Chang Xue, Mengying Zhang. Artificial Muscle Materials Database [AMDB] V1.0 ([Link](https://dongyanghuang.github.io/images/software.png)). China. 2024SR0126822.
 
@@ -55,7 +55,7 @@ Patents and Software
 
 4 &ensp;**<u>Dongyang Huang</u>**, Peirong Liu, Hui Cao, Hanyu Xu, Kai Zeng, Chang Xue, Jinbo Wu. Graphene-like Dirac Cone Computing Platform [GLDC] V1.0 ([Link](https://dongyanghuang.github.io/images/software2.jpg)). China. 2025SR1436873.
 
-5 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator ([Link](https://kns.cnki.net/kcms2/article/abstract?v=k15566fjT2mlaGofGAX3UNsbQm0ksiNZgvlz-6WAm-UvutqXcmta5suMpcL7_S7mm1iv85JOl6PnKp_pmxd2odm-5XM9XUuPTFy3IDO1MRZAEKh_7kfxCyKPjeqhYAQhHDE5ps4gFh0K_coyE9scRAn8Ohgf8QD1P1c1vDlheEPZklwwTtUp2lk3_wwFXHpwe3lB3a_fnDdis6fMGLsZk0UFjF9eUv1gxEp1cdXInSDxVTUEzDxkQvHq9Eh58wlarK0Ex7fW30PxgIaTAqUa1mFujFai-dZcb8ijnXRShVJNqz0AGbAcMxd3eMRZTVwrG0qrQDMr_oMXm3ojJttyetFCq5syxWq2ZcL-Jd6rRaTsbhOzS5iBuL52aepvviacSO9HENQzXnspAEzRTGVLyIg9dQpUSnjy&uniplatform=NZKPT)). China. CN116496526A.
+5 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator ([Link](https://dongyanghuang.github.io/images/patent2.jpg)). China. ZL202310623533.4.
 
 6 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film ([Link](https://kns.cnki.net/kcms2/article/abstract?v=k15566fjT2nEUzcowggPBJboumSh6XE8zvJcGthBowVZ3FgvsubUAl4adDyhnByQr9iNJD6uTMFvQnyY8iYRLdJvznl8Y_ZBIMllY89S6XPvBS4bzddIOPP1JoeArv_JKDFv-cFBqSaf522bX8oA83jU7RaGVUqWUo-xzXrVfhEezasxxO85e8MItsfLGvR8eWRcukzdZ4CDS0d6nS3hHl3DeGl1dBkqk87Bv5TBk0j9ElLxBowLZ0KqqQXU22X1AnKO16ST2ZQ=&uniplatform=NZKPT)). China. CN116535709A.
 
