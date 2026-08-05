@@ -61,6 +61,10 @@ Patents and Software
 
 7 &ensp;Hanyu Xu, Peirong Liu, Hui Cao, **<u>Dongyang Huang</u>**, Lihai Jiang, Chenyang Wang, Chang Xue, Shenghao Wang. Microfluidic Viscoelastic Particle Separation Simulator V1.0 ([Link](https://dongyanghuang.github.io/images/software3.jpg)). China. 2025SR1568216.
 
+Reviewer Activities
+------
+[*Materials Science and Engineering: B*](https://www.sciencedirect.com/journal/materials-science-and-engineering-b), 2026-present.
+
 Awards and Honors
 ------
 <font size=3>2025</font> Cover Image of [Materials & Design](https://www.sciencedirect.com/science/article/pii/S0264127525001741), Volume 251. 
