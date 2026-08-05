@@ -63,7 +63,7 @@ Patents and Software
 
 Reviewer Activities
 ------
-[*Materials Science and Engineering: B*](https://www.sciencedirect.com/journal/materials-science-and-engineering-b), 2026-present.
+[*Materials Science and Engineering: B*](https://www.sciencedirect.com/journal/materials-science-and-engineering-b), [2026-present](https://dongyanghuang.github.io/images/reviewer%20MSEB.jpg).
 
 Awards and Honors
 ------
