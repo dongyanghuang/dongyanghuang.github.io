@@ -1,6 +1,6 @@
 ---
 title: "Picture Wall"
-excerpt: "<img src='/images/certificates-1.png'><br/><br/><img src='/images/certificates-2.png'><br/><br/><img src='/images/certificates-3.png'><br/><br/><img src='/images/certificates-4.png'><br/><br/><img src='/images/certificates-5.png'><br/><br/><img src='/images/certificates-6.png'><br/><br/><img src='/images/certificates-7.png'><br/><br/><img src='/images/certificates-8.png'><br/><br/><img src='/images/certificates-9.png'><br/><br/><img src='/images/certificates-10.png'><br/><br/><img src='/images/certificates-11.png'><br/><br/><img src='/images/certificates-12.png'>"
+excerpt: "<img src='/images/certificates-1.png'><br/><br/><img src='/images/certificates-2.png'><br/><br/><img src='/images/certificates-3.png'><br/><br/><img src='/images/certificates-4.png'><br/><br/><img src='/images/certificates-5.png'><br/><br/><img src='/images/certificates-6.png'><br/><br/><img src='/images/certificates-7.png'><br/><br/><img src='/images/certificates-8.png'><br/><br/><img src='/images/certificates-9.png'><br/><br/><img src='/images/certificates-10.png'><br/><br/><img src='/images/certificates-11.png'><br/><br/><img src='/images/certificates-12.png'><br/><br/><img src='/images/certificates-13.png'>"
 collection: portfolio
 ---
 
