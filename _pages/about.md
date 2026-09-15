@@ -57,7 +57,7 @@ Patents and Software
 
 5 &ensp;Jinbo Wu, Ying Zhang, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of composite dielectric elastomer film and a dielectric elastomer film actuator ([Link](https://dongyanghuang.github.io/images/patent2.jpg)). China. ZL202310623533.4.
 
-6 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film ([Link](https://dongyanghuang.github.io/images/patent3.jpg)). China. CN116535709A.
+6 &ensp;Jinbo Wu, Yaozhong Zhou, Jincang Zhang, Yubing Han, Weijia Wen, Chang Xue, Mengying Zhang, **<u>Dongyang Huang</u>**. A preparation method of multifunctional dielectric elastomer and a dielectric elastomer film ([Link](https://dongyanghuang.github.io/images/patent4.jpg)). China. ZL202310623948.1.
 
 7 &ensp;Hanyu Xu, Peirong Liu, Hui Cao, **<u>Dongyang Huang</u>**, Lihai Jiang, Chenyang Wang, Chang Xue, Shenghao Wang. Microfluidic Viscoelastic Particle Separation Simulator V1.0 ([Link](https://dongyanghuang.github.io/images/software3.jpg)). China. 2025SR1568216.
 
