@@ -43,7 +43,11 @@ Publications
 
 8 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://www.czasopisma.pan.pl/dlibra/publication/152776/edition/134759/content)). ***Metrology and Measurement Systems***. 2025, 32 (1).
 
-9 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
+9 &ensp;Peirong Liu, Hanyu Xu, **<u>Dongyang Huang</u>**, Lihai Jiang, Chang Xue, Mengying Zhang, Bingpu Zhou, Jinbo Wu\*. Eco-Friendly Inkjet-Printed CsPbBr3 Quantum Dot Photodetectors via Ligand Engineering. ***Droplet*** (Under Review).
+
+10 &ensp;Lihai Jiang, Yubing Han, Shuanglin Zhang, Hanyu Xu, **<u>Dongyang Huang</u>**, Mengying Zhang, Jinbo Wu\*. Electrorheological Effect-Enhanced Mechanoluminescent Performance of CaZnOS:Mn2+ and Anticounterfeiting Applications. ***Advanced Materials Technologies*** (Under Review).
+
+11 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
 Patents and Software
 ------
@@ -61,7 +65,7 @@ Patents and Software
 
 7 &ensp;Hanyu Xu, Peirong Liu, Hui Cao, **<u>Dongyang Huang</u>**, Lihai Jiang, Chenyang Wang, Chang Xue, Shenghao Wang. Microfluidic Viscoelastic Particle Separation Simulator V1.0 ([Link](https://dongyanghuang.github.io/images/software3.jpg)). China. 2025SR1568216.
 
-8 &ensp;Bo Wang, **<u>Dongyang Huang</u>**, Wentan Jiao, Weiguang Yang, Yadong Qiao, Yafei Shi, Xinlei Zhang. A MWCNT-rGO-PDMS composite film and its preparation method and application. China. 202611355199.9.
+8 &ensp;Bo Wang, **<u>Dongyang Huang</u>**, Wentan Jiao, Weiguang Yang, Yadong Qiao, Yafei Shi, Xinlei Zhang. A MWCNT-rGO-PDMS composite film and its preparation method and application ([Link](https://dongyanghuang.github.io/images/patent4.jpg)). China. 202611355199.9.
 
 9 &ensp;Xinlei Zhang, **<u>Dongyang Huang</u>**. Sleep Movement Monitoring Sensor Signal Recognition and Analysis System V1.0. China.
 
