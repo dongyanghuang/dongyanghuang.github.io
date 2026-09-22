@@ -61,6 +61,10 @@ Patents and Software
 
 7 &ensp;Hanyu Xu, Peirong Liu, Hui Cao, **<u>Dongyang Huang</u>**, Lihai Jiang, Chenyang Wang, Chang Xue, Shenghao Wang. Microfluidic Viscoelastic Particle Separation Simulator V1.0 ([Link](https://dongyanghuang.github.io/images/software3.jpg)). China. 2025SR1568216.
 
+8 &ensp;Bo Wang, **<u>Dongyang Huang</u>**, Wentan Jiao, Weiguang Yang, Yadong Qiao, Yafei Shi, Xinlei Zhang. A MWCNT-rGO-PDMS composite film and its preparation method and application. China. 202611355199.9.
+
+9 &ensp;Xinlei Zhang, **<u>Dongyang Huang</u>**. Sleep Movement Monitoring Sensor Signal Recognition and Analysis System V1.0. China.
+
 Reviewer Activities
 ------
 [*Materials Science and Engineering: B*](https://www.sciencedirect.com/journal/materials-science-and-engineering-b), [reviewer](https://dongyanghuang.github.io/images/reviewer%20MSEB.jpg), 2026-present.
