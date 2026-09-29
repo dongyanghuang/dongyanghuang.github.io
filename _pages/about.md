@@ -45,7 +45,7 @@ Publications
 
 9 &ensp;Peirong Liu, Hanyu Xu, **<u>Dongyang Huang</u>**, Lihai Jiang, Chang Xue, Mengying Zhang, Bingpu Zhou, Jinbo Wu\*. Eco-Friendly Inkjet-Printed CsPbBr3 Quantum Dot Photodetectors via Ligand Engineering. ***Droplet*** (Under Review).
 
-10 &ensp;Lihai Jiang, Yubing Han, Shuanglin Zhang, Hanyu Xu, **<u>Dongyang Huang</u>**, Mengying Zhang, Jinbo Wu\*. Electrorheological Effect-Enhanced Mechanoluminescent Performance of CaZnOS:Mn2+ and Anticounterfeiting Applications. ***Advanced Materials Technologies*** (Under Review).
+10 &ensp;Lihai Jiang, Shuanglin Zhang, Hanyu Xu, **<u>Dongyang Huang</u>**, Yubing Han\*, Mengying Zhang, Jinbo Wu\*. Electrorheological Effect-Enhanced Mechanoluminescent Performance of CaZnOS:Mn2+ and Anticounterfeiting Applications. ***Advanced Materials Technologies*** (Under Review).
 
 11 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
