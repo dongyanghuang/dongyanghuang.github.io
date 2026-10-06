@@ -43,11 +43,13 @@ Publications
 
 8 &ensp;Chenghao Yu\*, **<u>Dongyang Huang</u>**. Methodological Approach for the Measurement of Ball Bearing Grooves Geometric Parameters Based on Coordinate Measuring Machine ([Link](https://www.czasopisma.pan.pl/dlibra/publication/152776/edition/134759/content)). ***Metrology and Measurement Systems***. 2025, 32 (1).
 
-9 &ensp;Peirong Liu, Hanyu Xu, **<u>Dongyang Huang</u>**, Lihai Jiang, Chang Xue, Mengying Zhang, Bingpu Zhou, Jinbo Wu\*. Eco-Friendly Inkjet-Printed CsPbBr3 Quantum Dot Photodetectors via Ligand Engineering. ***Droplet*** (Under Review).
+9 &ensp;Weiguang Yang, **<u>Dongyang Huang</u>**, Yadong Qiao, Yafei Shi, Wentan Jiao, Bo Wang\*. Double active layers IZO:P/IZTO:Mo thin film transistor ([Link](https://doi.org/10.1016/j.sse.2026.109432)). ***Solid-State Electronics***. 2026, 239: 109432.
 
-10 &ensp;Lihai Jiang, Shuanglin Zhang, Hanyu Xu, **<u>Dongyang Huang</u>**, Yubing Han\*, Mengying Zhang, Jinbo Wu\*. Electrorheological Effect-Enhanced Mechanoluminescent Performance of CaZnOS:Mn2+ and Anticounterfeiting Applications. ***Advanced Materials Technologies*** (Under Review).
+10 &ensp;Peirong Liu, Hanyu Xu, **<u>Dongyang Huang</u>**, Lihai Jiang, Chang Xue, Mengying Zhang, Bingpu Zhou, Jinbo Wu\*. Eco-Friendly Inkjet-Printed CsPbBr3 Quantum Dot Photodetectors via Ligand Engineering. ***Droplet*** (Under Review).
 
-11 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
+11 &ensp;Lihai Jiang, Shuanglin Zhang, Hanyu Xu, **<u>Dongyang Huang</u>**, Yubing Han\*, Mengying Zhang, Jinbo Wu\*. Electrorheological Effect-Enhanced Mechanoluminescent Performance of CaZnOS:Mn2+ and Anticounterfeiting Applications. ***Advanced Materials Technologies*** (Under Review).
+
+12 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
 Patents and Software
 ------
