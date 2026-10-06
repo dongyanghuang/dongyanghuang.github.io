@@ -14,7 +14,7 @@ I graduated from **Northwest A&F University** (Project 985) with a B.Eng. degree
 
 My research interest is smart materials data-driven research, including electrorheological elastomer, electrorheological fluid, dielectric elastomer, piezoresistive materials, smart materials database and materials data mining.
 
-**Citations** = [150](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [5](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
+**Citations** = [151](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **h-index** = [5](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en) &ensp; **i10-index** = [3](https://scholar.google.com/citations?user=2MzGV54AAAAJ&hl=en)
 
 
 Education
@@ -47,7 +47,7 @@ Publications
 
 10 &ensp;Peirong Liu, Hanyu Xu, **<u>Dongyang Huang</u>**, Lihai Jiang, Chang Xue, Mengying Zhang, Bingpu Zhou, Jinbo Wu\*. Eco-Friendly Inkjet-Printed CsPbBr3 Quantum Dot Photodetectors via Ligand Engineering. ***Droplet*** (Under Review).
 
-11 &ensp;Lihai Jiang, Shuanglin Zhang, Hanyu Xu, **<u>Dongyang Huang</u>**, Yubing Han\*, Mengying Zhang, Jinbo Wu\*. Electrorheological Effect-Enhanced Mechanoluminescent Performance of CaZnOS:Mn2+ and Anticounterfeiting Applications. ***Advanced Materials Technologies*** (Under Review).
+11 &ensp;Lihai Jiang, Shuanglin Zhang, Hanyu Xu, **<u>Dongyang Huang</u>**, Yubing Han\*, Mengying Zhang, Jinbo Wu\*. Electrorheological Effect-Enhanced Mechanoluminescent Performance of CaZnOS:Mn²⁺ and Anticounterfeiting Applications. ***Advanced Materials Technologies*** (Under Review).
 
 12 &ensp;**<u>Huang Dong-Yang</u>**. Mozi's Contribution to Physics ([Link](https://link.cnki.net/doi/10.16104/j.issn.1673-1891.2016.01.008)). ***Journal of Xichang University*** *(Natural Science Edition)*. 2016, 30 (01): 26-29.
 
